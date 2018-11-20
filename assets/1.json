@@ -1,0 +1,52 @@
+{
+    "columns": [
+        {
+            "visibleIndex": 0,
+            "dataField": "ID",
+            "dataType": "number",
+            "visible": true
+        },
+        {
+            "visibleIndex": 1,
+            "dataField": "CreateDate",
+            "dataType": "datetime",
+            "visible": true
+        },
+        {
+            "visibleIndex": 2,
+            "dataField": "StatusDetail_Name",
+            "dataType": "string",
+            "visible": true
+        },
+        {
+            "visibleIndex": 3,
+            "dataField": "StatusDate",
+            "dataType": "datetime",
+            "visible": true
+        },
+        {
+            "visibleIndex": 4,
+            "dataField": "RegNo",
+            "dataType": "string",
+            "visible": true
+        },
+        {
+            "visibleIndex": 5,
+            "dataField": "Cost",
+            "dataType": "string",
+            "visible": true
+        }
+    ],
+    "searchText": "",
+    "pageIndex": 0,
+    "pageSize": 15,
+    "allowedPageSizes": [
+        15,
+        30,
+        50
+    ],
+    "filterPanel": {
+        "filterEnabled": true
+    },
+    "filterValue": null
+}
